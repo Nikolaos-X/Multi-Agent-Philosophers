@@ -43,8 +43,8 @@ def philosopher_node(input_text):
 Once the graph is built, your AI philosophers can engage in discussions.
 
 6. Run the Project
-python main.py
-The discussion begins, and the AI philosophers will generate responses based on the structured framework.
+go through the jupyter notebook
+The discussion begins in the last cell, and the AI philosophers will generate responses based on the structured framework.
 
 📌 Example Usage
 
