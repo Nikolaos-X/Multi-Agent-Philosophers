@@ -17,7 +17,7 @@ Graph-Based Workflow: Defines a structured process for handling responses and de
 🛠️ Setup & Installation
 
 1. Clone the Repository
-git clone https://github.com/username/agent_supervisor.git
+git clone https://github.com/username/Multi-Agent-Philosophers.git
 cd agent_supervisor
 2. Install Dependencies
 Ensure you have Python installed (recommended: Python 3.8+). Then install the required packages:
@@ -61,18 +61,10 @@ LLM model settings
 Number of agents
 Tools enabled
 Discussion depth limit
-📜 Changelog
-
-[1.0.0] - YYYY-MM-DD
-Initial release of Multi-Agent Philosophers Discussion
-Implemented core features: multi-agent discussion, supervised responses, and tool integration.
-🛡️ License
-
-This project is licensed under the MIT License. See LICENSE for details.
 
 👤 Author(s)
 
-Your Name (@yourgithub)
+Your Name (@Nikolaos-X)
 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -83,5 +75,5 @@ Commit your changes.
 Open a pull request.
 🏆 Acknowledgments
 
-Thanks to the LLM research community for inspiring the creation of this project.
+Big thanks to the Langchain team for their great work, as well as their great explanations on YT!
 
