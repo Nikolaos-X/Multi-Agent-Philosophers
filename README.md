@@ -46,23 +46,7 @@ Once the graph is built, your AI philosophers can engage in discussions.
 go through the jupyter notebook
 The discussion begins in the last cell, and the AI philosophers will generate responses based on the structured framework.
 
-📌 Example Usage
-
-from agent_supervisor import Supervisor
-
-supervisor = Supervisor()
-response = supervisor.initiate_discussion("What is the meaning of life?")
-print(response)
-🔧 Configuration
-
-Modify config.json to customize:
-
-LLM model settings
-Number of agents
-Tools enabled
-Discussion depth limit
-
-👤 Author(s)
+👤 Author
 
 Your Name (@Nikolaos-X)
 🤝 Contributing
