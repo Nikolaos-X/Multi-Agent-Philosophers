@@ -1,0 +1,11 @@
+langchain_core.messages
+getpass
+IPython.display
+google.generativeai
+langgraph.graph
+typing
+typing_extensions
+pydantic.dataclasses
+langgraph.types
+os
+pydantic
